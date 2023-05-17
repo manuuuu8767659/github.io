@@ -1,0 +1,24 @@
+ body  {  
+ background-color:gray;
+ color:white;
+ font:family:comic sans ms
+ width:100%
+ margynn:auto;
+
+}
+
+
+ .cabecalho {
+
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: spacebetween
+
+
+}
+
+
+ .cabecalho<div {
+ width:100%;
+
+}
